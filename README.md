@@ -1,4 +1,4 @@
-# Fantasy Battle Game
+# Module 2 Project - Defeat the Evil Wizard
 
 A turn-based fantasy battle game where players can choose from various character classes, each with unique abilities, and battle against an evil wizard who can summon minions. This project is implemented in Python. When I was reading through the starter code, I was inspired to relate it to Dungeons and Dragons, so I added some classes and abilities that I found and modified.
 
